@@ -1,7 +1,7 @@
 # SIMPLE landing page
 
-SIMPLE is a clean, responsive Bootstrap landing page for general use.
+SIMPLE is a clean, responsive html landing page for general use.
 
-![img](assets/img/screenshot.png)
+![img](assets/img/screenshot.jpg)
 
-**Demo** <https://jgmuchiri.github.io/simple-landing-page/>
+**Demo** <https://jgmuchiri.github.io/simple-html-landing-page/>
