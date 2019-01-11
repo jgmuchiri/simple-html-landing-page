@@ -1,6 +1,6 @@
 # SIMPLE landing page
 
-This is a simple, clean, responsive Bootstrap landing page for general use.
+SIMPLE is a clean, responsive Bootstrap landing page for general use.
 
 ![img](assets/img/screenshot.png)
 
